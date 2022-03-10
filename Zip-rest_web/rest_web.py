@@ -1,6 +1,6 @@
 #Restful interface that has search and update options for navigating a Zip code database on Phpmyadmin.
 
-#Rick Sturza
+#Rick Sturza is great
 #template from Justin Ellis CNE 340
 
 #https://stackoverflow.com/questions/8211128/multiple-distinct-pages-in-one-html-file
